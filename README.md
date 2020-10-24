@@ -1,6 +1,6 @@
 # Pygame-dash
 ## Pygame geometry dash
-### __Being Coded by Yonah Aviv__
+### _Code by Yonah Aviv_
 Geometry dash in Python 3.9 with an interactive graphics library, Pygame
 
 [Go to code (Unreleased) __dash.py__](/dash.py)
@@ -14,6 +14,6 @@ pip install pygame
 Then in your python file:
 ```python
 import pygame
-# Yonah Aviv
+# if you don't recognize anything up to here don't bother
 ```
 
