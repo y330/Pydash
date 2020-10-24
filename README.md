@@ -1,5 +1,5 @@
 # Pygame-dash
-##Pygame geometry dash
+## Pygame geometry dash
 ### __Being Coded by Yonah Aviv__
 Geometry dash in Python 3.9 with an interactive graphics library, Pygame
 
