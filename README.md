@@ -15,6 +15,6 @@ Then in your python file:
 ```python
 import pygame
 ```
-if you don't recognize anything up to here, read a tutorial onoine
+if you don't recognize anything up to here, read a tutorial online
 
 
