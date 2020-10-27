@@ -14,6 +14,7 @@ pip install pygame
 Then in your python file:
 ```python
 import pygame
-# if you don't recognize anything up to here don't bother
 ```
+if you don't recognize anything up to here, read a tutorial onoine
+
 
