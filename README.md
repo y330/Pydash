@@ -3,7 +3,7 @@
 ### _Code by Yonah Aviv_
 Geometry dash in Python 3.9 with an interactive graphics library, Pygame
 
-[Go to code (Unreleased) __dash.py__](/dash.py)
+[Go to code)](/main.py)
 
 
 To install Pygame module, run the following from your command prompt/PowerShell on Windows or the equivalent program on OS X:
