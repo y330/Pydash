@@ -21,7 +21,7 @@ Then in your python file:
 ```python
 import pygame
 ```
-if you don't recognize anything up to here, read a tutorial for [Python](https://coderslegacy.com/python/learning-the-basics/) and [Pygame](https://coderslegacy.com/python/python-pygame-tutorial/) 
+if you don't recognize anything up to here, read a tutorial for [Python](https://wiki.python.org/moin/BeginnersGuide/Download) and [Pygame](https://coderslegacy.com/python/python-pygame-tutorial/) 
 
 
   
