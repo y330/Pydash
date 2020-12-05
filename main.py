@@ -49,11 +49,11 @@ RED = (255, 0, 0)
 GREEN = (0, 255, 0)
 BLUE = (0, 0, 255)
 
-"""lambda functions are anonymous functions that you can assign to a variable. 
-e.g. 
+"""lambda functions are anonymous functions that you can assign to a variable.
+e.g.
 1. x = lambda x: x + 2  # takes a parameter x and adds 2 to it
 2. print(x(4))
->>6 
+>>6
 """
 color = lambda: tuple([random.randint(0, 255) for i in range(3)])  # lambda function for random color, not a constant.
 GRAVITY = Vector2(0, 0.86)  # Vector2 is a pygame
