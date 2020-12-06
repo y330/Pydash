@@ -8,6 +8,8 @@ _Code by Yonah Aviv_
 Implementation of Geometry Dash in Python 3.9 with the interactive graphics library for python, Pygame(v2.0+).
 
 
+![](https://lh3.googleusercontent.com/pw/ACtC-3fqOHMkopBQlUqSF5vjhTCL73Dp092W9VSn0QIsvJ76e-jnlT7qEkdvSpGGHHjWSg8o2cHZblSCloO9XM159oEuGqelm-PfNrs-c4bfwA9q2Seb53tGetuNUrxeRPYsDKLeBhwARyVINvZ0MMTsg-lnVQ=w796-h596-no?authuser=0)
+
 ## Controls
 Up-arrow or space-bar to jump over spikes, avoid crashing into walls, and interact with orbs to jump in mid-air.
 
