@@ -1,6 +1,8 @@
-# Pydsh
+# Pydash
 ## Pygame geometry dash
-### _Code by Yonah Aviv
+ 
+_Code by Yonah Aviv_
+
 Implementation of Geometry Dash in Python 3.9 with the interactive graphics library for python, Pygame(v2.0+).
 
 Tap to jump over spikes, avoid crashing into walls, and interact with orbs to jump in mid-air.
