@@ -3,14 +3,22 @@
  
 _Code by Yonah Aviv_
 
+
+## Overview
 Implementation of Geometry Dash in Python 3.9 with the interactive graphics library for python, Pygame(v2.0+).
 
-Tap to jump over spikes, avoid crashing into walls, and interact with orbs to jump in mid-air.
+
+## Controls
+Up-arrow or space-bar to jump over spikes, avoid crashing into walls, and interact with orbs to jump in mid-air.
 
 
+## Level information
 Currently, there are 2 levels out of the box, both made using [Tiled](https://www.mapeditor.org/), a 2d tile based level editor.
 
 [Go to code](/main.py)
+
+
+## Getting Started
 
 Make sure you are running at least Python 3.9 and Pygame 2.0 on your machine.
 
@@ -27,7 +35,7 @@ if you don't recognize anything up to here, read a tutorial for [Python](https:/
 
 
   
-
+## Miscellaneous 
 
   
 Disclaimer: Some assets in this project may not be owened by the owner of this repository, Yonah Aviv.
