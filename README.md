@@ -22,6 +22,8 @@ Currently, there are 2 levels out of the box, both made using [Tiled](https://ww
 
 ## Getting Started
 
+Download zip, then run main.py
+
 Make sure you are running at least Python 3.9 and Pygame 2.0 on your machine.
 
 To install Pygame module, run the following from your command prompt/PowerShell on Windows or the equivalent program on OS X:
